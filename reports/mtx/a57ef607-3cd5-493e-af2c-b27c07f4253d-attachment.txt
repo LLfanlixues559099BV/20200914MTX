@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_mtx_cancel.py:24 f"取消收藏的响应结果为{response_cancel}

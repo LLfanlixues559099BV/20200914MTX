@@ -1,0 +1,1 @@
+[1m[31mERROR   [0m root:test_mtx_cancel.py:26 断言取消收藏失败实际结果与预期结果不符合

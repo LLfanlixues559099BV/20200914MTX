@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_mtx_cancel.py:30 参数为{'msg': '收藏成功', 'code': 0, 'data': {'text': '已收藏', 'status': 1, 'count': 7}},收藏成功

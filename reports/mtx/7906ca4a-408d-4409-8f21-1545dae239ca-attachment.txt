@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_mtx_cancel.py:33 参数为{'msg': '取消成功', 'code': 0, 'data': {'text': '收藏', 'status': 0, 'count': 6}},获取到的msg的值为: 取消成功

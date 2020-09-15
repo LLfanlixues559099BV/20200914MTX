@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_mtx_cancel.py:28 收藏成功

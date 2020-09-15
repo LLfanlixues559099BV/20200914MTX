@@ -1,0 +1,6 @@
+2020-09-05 21:09:50,598 - root - INFO - 参数为{'msg': '收藏成功', 'code': 0, 'data': {'text': '已收藏', 'status': 1, 'count': 7}},获取到的msg的值为: 收藏成功
+2020-09-05 21:09:51,901 - root - INFO - =====config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4496.html=======
+2020-09-05 21:09:52,232 - root - INFO - =====config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4497.html=======
+2020-09-05 21:13:03,018 - root - INFO - 参数为{'msg': '取消成功', 'code': 0, 'data': {'text': '收藏', 'status': 0, 'count': 6}},获取到的msg的值为: 取消成功
+2020-09-05 21:13:04,133 - root - INFO - =====config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4498.html=======
+2020-09-05 21:13:04,494 - root - INFO - =====config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4499.html=======
